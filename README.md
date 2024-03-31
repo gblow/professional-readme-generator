@@ -56,7 +56,9 @@
 
   ## Usage
 
-<iframe src="https://drive.google.com/file/d/13HohWDS5DiHzSBraqPWNNaiiOj0draKJ/preview" width="640" height="480"></iframe>
+  Clickthe link below to see how to use the app.
+
+  https://drive.google.com/file/d/13HohWDS5DiHzSBraqPWNNaiiOj0draKJ/view
 
   ## [License](#table-of-contents)
   The application is covered under the following license:
