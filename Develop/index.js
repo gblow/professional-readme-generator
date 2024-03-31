@@ -55,8 +55,8 @@ const questions = [
             if (confirmContributors) {
                 return true;
             } else {
-                message: 'No contributions';
-                // return false;
+                message = 'No contributions';
+               
             }
         },
         validate: contributorsInput => {
